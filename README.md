@@ -20,7 +20,7 @@
 2. Разработаны  тест-кейсы (более 15) с использованием шаблона.
 3. Оформлено описание обнаруженных дефектов с использованием шаблона. 
 
-→ Ссылка на документ: https://docs.google.com/spreadsheets/d/1Ai6uvl8sw429p6ikJHIownpwJ2hBrzHFEu1uh7XGy10/edit#gid=1484041689
+→ Ссылка на документ: https://disk.yandex.ru/i/0BKc4Y7L9ZRxmg
 
 4. Проект выполнен с использованием: PageObject, Selenium и PyTest.
 
